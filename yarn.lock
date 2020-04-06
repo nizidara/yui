@@ -1004,6 +1004,3 @@ ws@^1.0.1:
   dependencies:
     options ">=0.0.5"
     ultron "1.0.x"
-
-yui@../yuifunction:
-  version "1.0.0"
