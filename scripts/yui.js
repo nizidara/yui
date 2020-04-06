@@ -5,7 +5,7 @@
 //   ボット名 done     - TODO を完了にする
 //   ボット名 del      - TODO を消す
 //   ボット名 list     - TODO の一覧表示
-//   ボット名 donelist - 完了した TODO の一覧表
+//   ボット名 donelist - 完了した TODO の一覧表示
 
 "use strict";
 //console.log("動け");
