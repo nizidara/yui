@@ -1005,5 +1005,5 @@ ws@^1.0.1:
     options ">=0.0.5"
     ultron "1.0.x"
 
-yui@yui:
+yui@../yuifunction:
   version "1.0.0"
