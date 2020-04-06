@@ -1,0 +1,10 @@
+{
+  "name": "yui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nizidara",
+  "scripts": {
+  	"test": "node test.js"
+  },
+  "license": "MIT"
+}

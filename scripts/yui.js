@@ -11,7 +11,7 @@
 //console.log("動け");
 
 
-const yui = require("yui");
+const yui = require("../yui");
 
 const date = new Date();
 const dayOfWeek = date.getDay();
